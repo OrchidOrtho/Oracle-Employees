@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [SQLOracleMQ1User]
+    WITH PASSWORD = N'qrcwocmbglvWtFih:W{rgdaomsFT7_&#$!~<axNnrz{Zgghv', SID = 0x22D0476BD1C4964D828ACEE3AE4733E4, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+

@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [ORCHID\PhillipsJ]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+

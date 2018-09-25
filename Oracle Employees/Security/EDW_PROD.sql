@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [EDW_PROD]
+    AUTHORIZATION [dbo];
+

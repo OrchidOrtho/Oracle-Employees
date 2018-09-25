@@ -1,0 +1,2 @@
+﻿CREATE USER [ORCHID\PhillipsJ] FOR LOGIN [ORCHID\PhillipsJ];
+

@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [SQLOracleHRISUser]
+    WITH PASSWORD = N'rmcwocAbgtlvi?hu{rXgdoa8msFT7_&#$!~<Uoaxnrz{gghv', SID = 0x2DEF3B18D21B804FB3BA86DC67B90C1F, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+

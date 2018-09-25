@@ -1,0 +1,2 @@
+﻿CREATE USER [SQLOracleHRISUser] FOR LOGIN [SQLOracleHRISUser];
+

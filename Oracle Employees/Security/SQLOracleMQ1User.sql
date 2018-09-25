@@ -1,0 +1,2 @@
+﻿CREATE USER [SQLOracleMQ1User] FOR LOGIN [SQLOracleMQ1User];
+
